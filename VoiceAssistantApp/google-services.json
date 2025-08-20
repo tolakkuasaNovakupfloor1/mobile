@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "234788421146",
+    "project_id": "eloheem-protect-firebase",
+    "storage_bucket": "eloheem-protect-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234788421146:android:fb23db393bbfc0e2b71ba3",
+        "android_client_info": {
+          "package_name": "com.eloheemprotect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe5NkYg4cuvYVd-aoDSDoaWDHAwLGZV8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
